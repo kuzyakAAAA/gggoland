@@ -9,5 +9,6 @@ func main() {
 	fmt.Printf("Name: %s, Age: %d\n", name, age)
 
 	someFunction()
+	Function2()
 	//iff()
 }
